@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class ModifPercobaan1Soal1 {
     public static void main(String[] args) {
         Scanner input26 = new Scanner(System.in);
